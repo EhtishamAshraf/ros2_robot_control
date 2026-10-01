@@ -1,0 +1,4 @@
+---
+float32 average_linear
+float32 average_angular
+int32 sample_count
